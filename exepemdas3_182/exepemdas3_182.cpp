@@ -32,7 +32,7 @@ public:
 	float Luas() {
 		int r = getX();
 		return 3.14 * r * r;
-	}
+	} 
 	float Keliling() {
 		int r = getX();
 		return 2 * 3.14 * r;
